@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "856994853094",
+    "firebase_url": "https://pract20chayka-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pract20chayka",
+    "storage_bucket": "pract20chayka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856994853094:android:028b07f44d4716f7c90b27",
+        "android_client_info": {
+          "package_name": "com.example.pract20chayka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC61efn3aCjFz4fYnJQDTvhp-iHsDcim38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
